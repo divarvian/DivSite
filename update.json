@@ -2,5 +2,5 @@
 	"version": "v0.1.1",
 	"versionCode": 110,
 	"zipUrl": "https://github.com/divarvian/DivSite/releases/download/v0.1.1/DivSite-Verse-Zygisk-MLBB_v0.1.1.zip",
-	"changelog": "https://lsposed.github.io/LSPosed/release/changelog.md"
+	"changelog": "https://raw.githubusercontent.com/divarvian/DivSite/main/changelog.md"
 }
