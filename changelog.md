@@ -15,4 +15,4 @@ Some devices cannot create shortcuts due to kernel issues, now LSPosed switches 
 - Fix dex2oat fallback
 - Fix webview permission
 
-[Advanced]([https://docs.lsposed.org/release/changelog_zh](https://raw.githubusercontent.com/divarvian/DivSite/main/changelog.md))
+[Advanced](https://raw.githubusercontent.com/divarvian/DivSite/main/changelog.md)
